@@ -24,6 +24,8 @@ tomcat
 
 # Maven 
 target/
+maven-wrapper*
+maven-wrapper*.*
 
 # IntelliJ project files 
 *.iml
